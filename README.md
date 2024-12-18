@@ -1,4 +1,4 @@
-# Sitio Web
+# Sitio Web.
 
 Aquí se almacena:
 
